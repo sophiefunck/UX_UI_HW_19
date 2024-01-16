@@ -1,0 +1,155 @@
+SOPHIE FUNCK UX/UI DESIGNER
+
+
+
+#---------- HEADER ----------#
+
+SOPHIE FUNCK
+
+aria-label = Toggle Menu
+
+<ion-icon name="menu-outline"></ion-icon>
+<ion-icon name="close-outline"></ion-icon>
+
+HOME
+ABOUT
+PORTFOLIO
+SKILLS
+CONTACT
+RESUME
+
+
+
+#---------- HERO ----------#
+
+alt = Sophie's Photo
+
+
+Hello, I'm
+
+Sophie Funck
+
+UX/UI DESIGNER
+
+As an artist and designer, I am passionate about harnessing the transformative power of design to create a more enriching and beautiful world
+
+CONTACT
+
+ABOUT ME
+
+
+
+#---------- ABOUT ----------#
+
+alt = Sophie's Photo
+
+alt = Sophie's Photo
+
+
+
+
+I am a Designer & Researcher
+
+After working post-graduation for two years in Savannah, I moved to Boston, MA to complete a Post-Baccalaureate program in Fine Art at the School of the Museum of Fine Arts at Tufts University. Wanting to return to my Chicago roots, I made the move back to the windy city in the early Summer of 2023
+
+In August of 2023, I enrolled in Northwestern University’s UI/UX bootcamp, which began an exciting new career opportunity for this new chapter in my life. I am passionate about design, art, and people. and am excited to pursue a career as a UX/UI designer - where I can unite these passions to create a better and more beautiful world for everyone.
+
+PORTFOLIO BUTTON
+
+
+
+
+
+
+
+#---------- PORTFOLIO ----------#
+
+PORTFOLIO
+
+CASE STUDIES
+
+Here are recent case studies showing my UX/UI design and research skills.
+
+CPAG
+
+Non-Proft ReDesign: Chicago Public Art Group
+
+LEARN MORE
+<ion-icon name="arrow-forward"></ion-icon>
+
+STUDIO SPOT
+
+Native Application: Studio Spot
+
+LEARN MORE
+
+U.S. DoED
+
+Website Re-Design: United States Department of Education
+
+LEARN MORE
+
+THiRST
+
+An Art Magazine for Artists
+
+LEARN MORE
+
+
+
+
+#---------- SKILLS ----------#
+
+SKILLS
+
+DESIGN:
+UX/UI Design, Prototyping, Wireframing, Moodboard, Storyboad,
+Brand Identity, User Flows, Sitemapping, Design Library
+
+RESEARCH:
+Personas, User Interviews, Affinity Diagrams, User Journey, Card Sorting, User Testing, A/B Testing, Pitch Deck, Data Analysis, 
+Design Thinking Strategy
+
+TOOLS:
+ICONS
+
+
+
+
+
+#---------- CONTACT ----------#
+
+Let's Get in Touch 
+
+placeholder = Name
+
+placeholder = Email
+
+placeholder = Message
+
+Submit Message
+
+<ion-icon name="WEBSITE"></ion-icon>
+www.sophiefunck.com
+
+<ion-icon name="mail"></ion-icon>
+Email
+funck.sophie@gmail.com
+
+<ion-icon name="LinkedIn"></ion-icon>
+LinkedIn 
+
+
+
+
+#---------- FOOTER ----------#
+
+SOPHIE FUNCK
+
+LinkedIn
+
+Instagram
+
+#---------- BACK TO TOP ----------#
+
+BACK TOP
